@@ -4,7 +4,7 @@ using System.Numerics;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace TesteMatematica
+namespace CollatzConjectureApp
 {
     class Program
     {
